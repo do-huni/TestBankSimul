@@ -2,6 +2,7 @@
   "name": "tbslave",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https:/do-huni.github.io/TestBankSimul",	
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
@@ -31,6 +32,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+	"postbuild": "cp build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
