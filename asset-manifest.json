@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/do-huni.github.io/TestBankSimul/static/css/main.50855164.css",
-    "main.js": "/do-huni.github.io/TestBankSimul/static/js/main.62761bac.js",
+    "main.js": "/do-huni.github.io/TestBankSimul/static/js/main.a08a4288.js",
     "static/js/787.c57e453f.chunk.js": "/do-huni.github.io/TestBankSimul/static/js/787.c57e453f.chunk.js",
     "static/media/PhotoRoom-20230718_040308.png": "/do-huni.github.io/TestBankSimul/static/media/PhotoRoom-20230718_040308.2e2a495bd411681ab9be.png",
     "static/media/PhotoRoom-20230718_041720.png": "/do-huni.github.io/TestBankSimul/static/media/PhotoRoom-20230718_041720.cc9263ae8aa1a0cb6207.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/do-huni.github.io/TestBankSimul/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/do-huni.github.io/TestBankSimul/index.html",
     "main.50855164.css.map": "/do-huni.github.io/TestBankSimul/static/css/main.50855164.css.map",
-    "main.62761bac.js.map": "/do-huni.github.io/TestBankSimul/static/js/main.62761bac.js.map",
+    "main.a08a4288.js.map": "/do-huni.github.io/TestBankSimul/static/js/main.a08a4288.js.map",
     "787.c57e453f.chunk.js.map": "/do-huni.github.io/TestBankSimul/static/js/787.c57e453f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50855164.css",
-    "static/js/main.62761bac.js"
+    "static/js/main.a08a4288.js"
   ]
 }
