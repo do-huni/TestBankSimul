@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TestBankSimul/static/css/main.50855164.css",
-    "main.js": "/TestBankSimul/static/js/main.7c9bb372.js",
+    "main.js": "/TestBankSimul/static/js/main.96bd6ddb.js",
     "static/js/787.c57e453f.chunk.js": "/TestBankSimul/static/js/787.c57e453f.chunk.js",
     "static/media/PhotoRoom-20230718_040308.png": "/TestBankSimul/static/media/PhotoRoom-20230718_040308.2e2a495bd411681ab9be.png",
     "static/media/PhotoRoom-20230718_041720.png": "/TestBankSimul/static/media/PhotoRoom-20230718_041720.cc9263ae8aa1a0cb6207.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/TestBankSimul/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/TestBankSimul/index.html",
     "main.50855164.css.map": "/TestBankSimul/static/css/main.50855164.css.map",
-    "main.7c9bb372.js.map": "/TestBankSimul/static/js/main.7c9bb372.js.map",
+    "main.96bd6ddb.js.map": "/TestBankSimul/static/js/main.96bd6ddb.js.map",
     "787.c57e453f.chunk.js.map": "/TestBankSimul/static/js/787.c57e453f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50855164.css",
-    "static/js/main.7c9bb372.js"
+    "static/js/main.96bd6ddb.js"
   ]
 }
